@@ -13,9 +13,9 @@
 <tbody>
 <tr>
 <td align="left">1</td>
-<td align="left"><a href="https://github.com/Zhmuidetsky/Yandex_practicum_projects/tree/main/AAB_testing"><g-emoji class="g-emoji" alias="dollar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png">💵</g-emoji> Исследование надёжности заёмщиков</a></td>
-<td align="left">Исследование влияния семейного положения и количества детей на факт погашения кредита в срок</td>
-<td align="left">python, pandas</td>
+<td align="left"><a href="https://github.com/Zhmuidetsky/Yandex_practicum_projects/tree/main/AAB_testing"><g-emoji class="g-emoji" alias="dollar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b5.png">💵</g-emoji> Исследование поведения пользователей приложения</a></td>
+<td align="left">Исследование поведения пользователей мобильного приложение, анализ результатов ААВ теста</td>
+<td align="left">pandas, matplotlib, scipy, A/B-тестирование, проверка статистических гипотез</td>
 </tr>
 <tr>
 <td align="left">2</td>
